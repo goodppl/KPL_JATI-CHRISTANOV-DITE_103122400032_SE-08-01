@@ -1,7 +1,7 @@
 # Tugas Mandiri 04: Automata dan Table-Driven Construction
 
-**Nama:** Tony Hendrawan  
-**NIM:** 103122400021  
+**Nama:** Jati Christanov Dite  
+**NIM:** 103122400032  
 **Kelas:** SE-08-01
 
 ## Tugas
